@@ -11,13 +11,13 @@
   </p>
   <p>
     <image href="https://cdn.jsdelivr.net/gh/gehei333/gehei333@main/微信图片_20261008091554_162.jpg"
-    <img src="./assets/diamond-miku02.svg" width="100" height="100" alt="miku02" />
+    <img src="diamond-miku02.svg" width="100" height="100" alt="miku02" />
     &nbsp;
-    <img src="./assets/diamond-miku03.svg" width="100" height="100" alt="miku03" />
+    <img src="/diamond-miku03.svg" width="100" height="100" alt="miku03" />
     &nbsp;
-    <img src="./assets/diamond-miku04.svg" width="100" height="100" alt="miku04" />
+    <img src="/diamond-miku04.svg" width="100" height="100" alt="miku04" />
     &nbsp;
-    <img src="./assets/diamond-miku05.svg" width="100" height="100" alt="miku05" />
+    <img src="/diamond-miku05.svg" width="100" height="100" alt="miku05" />
   </p>
   <p>
     🎵 🎵 🎵
