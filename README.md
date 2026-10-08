@@ -10,8 +10,7 @@
     🌸🌸🌸 <b><span style="font-size:18px;">🎨 初音画廊  ·  Miku Gallery</span></b> 🌸🌸🌸
   </p>
   <p>
-    <img src="./assets/diamond-miku01.svg" width="100" height="100" alt="miku01" />
-    &nbsp;
+    <image href="https://cdn.jsdelivr.net/gh/gehei333/gehei333@main/微信图片_20261008091554_162.jpg"
     <img src="./assets/diamond-miku02.svg" width="100" height="100" alt="miku02" />
     &nbsp;
     <img src="./assets/diamond-miku03.svg" width="100" height="100" alt="miku03" />
