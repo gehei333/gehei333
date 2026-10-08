@@ -1,7 +1,7 @@
 <!-- 🌸 初音未来主题 GitHub Profile — 卡琪 -->
 
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="初音未来主题装饰横幅" />
+  <img src="/banner.svg" width="100%" alt="初音未来主题装饰横幅" />
 </div>
 
 <br />
